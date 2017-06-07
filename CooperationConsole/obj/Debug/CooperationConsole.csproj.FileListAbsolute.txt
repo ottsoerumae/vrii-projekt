@@ -1,0 +1,16 @@
+C:\Users\Ott\Desktop\CooperationSolution\CooperationConsole\bin\Debug\CooperationConsole.exe.config
+C:\Users\Ott\Desktop\CooperationSolution\CooperationConsole\bin\Debug\CooperationConsole.exe
+C:\Users\Ott\Desktop\CooperationSolution\CooperationConsole\bin\Debug\CooperationConsole.pdb
+C:\Users\Ott\Desktop\CooperationSolution\CooperationConsole\obj\Debug\CooperationConsole.csprojResolveAssemblyReference.cache
+C:\Users\Ott\Desktop\CooperationSolution\CooperationConsole\obj\Debug\CooperationConsole.exe
+C:\Users\Ott\Desktop\CooperationSolution\CooperationConsole\obj\Debug\CooperationConsole.pdb
+C:\Users\Ott\Desktop\CooperationSolution\CooperationConsole\bin\Debug\Domain.dll
+C:\Users\Ott\Desktop\CooperationSolution\CooperationConsole\bin\Debug\Domain.pdb
+C:\Users\Ott\Desktop\CooperationSolution\CooperationConsole\bin\Debug\EntityFramework.dll
+C:\Users\Ott\Desktop\CooperationSolution\CooperationConsole\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ott\Desktop\CooperationSolution\CooperationConsole\bin\Debug\EntityFramework.xml
+C:\Users\Ott\Desktop\CooperationSolution\CooperationConsole\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ott\Desktop\CooperationSolution\CooperationConsole\bin\Debug\DAL.dll
+C:\Users\Ott\Desktop\CooperationSolution\CooperationConsole\bin\Debug\DAL.pdb
+C:\Users\Ott\Desktop\CooperationSolution\CooperationConsole\bin\Debug\Interfaces.dll
+C:\Users\Ott\Desktop\CooperationSolution\CooperationConsole\bin\Debug\Interfaces.pdb

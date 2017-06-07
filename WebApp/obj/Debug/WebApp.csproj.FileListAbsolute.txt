@@ -1,0 +1,237 @@
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\ApplicationInsights.config
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\roslyn\csc.exe
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\roslyn\csc.exe.config
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\roslyn\csc.rsp
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\roslyn\csi.exe
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\roslyn\csi.exe.config
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\roslyn\csi.rsp
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\roslyn\System.Console.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\roslyn\vbc.exe
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\roslyn\vbc.exe.config
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\roslyn\vbc.rsp
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\WebApp.dll.config
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\WebApp.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\WebApp.pdb
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\Antlr3.Runtime.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\BL.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\DAL.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\Domain.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\EntityFramework.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\Interfaces.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\Microsoft.AI.Web.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\Newtonsoft.Json.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\Ninject.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\Ninject.Web.Common.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\Ninject.Web.Mvc.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\Ninject.Web.WebApi.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\Ninject.Web.WebApi.WebHost.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\System.Web.Helpers.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\System.Web.Http.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\System.Web.Mvc.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\System.Web.Optimization.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\System.Web.Razor.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\System.Web.WebPages.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\WebActivatorEx.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\WebGrease.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\BL.pdb
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\DAL.pdb
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\Domain.pdb
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\Interfaces.pdb
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\Antlr3.Runtime.pdb
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\EntityFramework.xml
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\Microsoft.AI.Web.xml
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\Newtonsoft.Json.xml
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\Ninject.xml
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\Ninject.Web.Common.xml
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\Ninject.Web.Mvc.xml
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\Ninject.Web.WebApi.xml
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\Ninject.Web.WebApi.WebHost.xml
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\System.Web.Http.xml
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\System.Web.Helpers.xml
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\System.Web.Mvc.xml
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\System.Web.Optimization.xml
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\System.Web.Razor.xml
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\System.Web.WebPages.xml
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\obj\Debug\WebApp.dll
+C:\Users\Ott\Desktop\CooperationSolution\WebApp\obj\Debug\WebApp.pdb
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\ApplicationInsights.config
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\roslyn\csc.exe
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\roslyn\csc.exe.config
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\roslyn\csc.rsp
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\roslyn\csi.exe
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\roslyn\csi.exe.config
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\roslyn\csi.rsp
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\roslyn\System.Console.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\roslyn\vbc.exe
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\roslyn\vbc.exe.config
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\roslyn\vbc.rsp
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\WebApp.dll.config
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\WebApp.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\WebApp.pdb
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\Antlr3.Runtime.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\BL.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\DAL.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\Domain.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\EntityFramework.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\Interfaces.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\Microsoft.AI.Web.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\Newtonsoft.Json.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\Ninject.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\Ninject.Web.Common.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\Ninject.Web.Mvc.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\Ninject.Web.WebApi.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\Ninject.Web.WebApi.WebHost.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\System.Web.Helpers.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\System.Web.Http.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\System.Web.Mvc.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\System.Web.Optimization.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\System.Web.Razor.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\System.Web.WebPages.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\WebActivatorEx.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\WebGrease.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\BL.pdb
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\DAL.pdb
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\DAL.dll.config
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\Domain.pdb
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\Interfaces.pdb
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\Antlr3.Runtime.pdb
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\EntityFramework.xml
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\Microsoft.AI.Web.xml
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\Newtonsoft.Json.xml
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\Ninject.xml
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\Ninject.Web.Common.xml
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\Ninject.Web.Mvc.xml
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\Ninject.Web.WebApi.xml
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\Ninject.Web.WebApi.WebHost.xml
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\System.Web.Http.xml
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\System.Web.Helpers.xml
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\System.Web.Mvc.xml
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\System.Web.Optimization.xml
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\System.Web.Razor.xml
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\System.Web.WebPages.xml
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\obj\Debug\WebApp.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\WebApp\obj\Debug\WebApp.pdb

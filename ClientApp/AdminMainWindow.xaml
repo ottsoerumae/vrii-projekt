@@ -1,0 +1,40 @@
+﻿<Window x:Class="ClientApp.AdminMainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ClientApp"
+        xmlns:viewmodels="clr-namespace:ClientApp.ViewModels"
+        xmlns:views="clr-namespace:ClientApp.Views"
+        mc:Ignorable="d"
+        Title="AdminMainWindow" Height="350" Width="525">
+    <Window.Resources>
+        <DataTemplate x:Name="MainViewTemplate" DataType="{x:Type viewmodels:AdminMainVM}">
+            <views:AdminMain DataContext="{Binding}"/>
+        </DataTemplate>
+        <DataTemplate x:Name="AddNoticeViewTemplate" DataType="{x:Type viewmodels:AddNoticeVM}">
+            <views:AddNotice DataContext="{Binding}"/>
+        </DataTemplate>
+        <DataTemplate x:Name="AddVotingViewTemplate" DataType="{x:Type viewmodels:AddVotingVM}">
+            <views:AddVoting DataContext="{Binding}"/>
+        </DataTemplate>
+        <DataTemplate x:Name="ViewAndAddPeopleTemplate" DataType="{x:Type viewmodels:ViewAndAddPeopleVM}">
+            <views:ViewAndAddPeople DataContext="{Binding}"/>
+        </DataTemplate>
+    </Window.Resources>
+    <Border Background="#643B0F" Padding="3">
+        <Grid Background="#ffffff">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="30px"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <StackPanel Grid.Row="0" Background="#f8e9d9" Orientation="Horizontal">
+                <Button x:Name="ButtonAdminMainView" Content="Kodu" Background="#d8cbb1" Width="120" Margin="5 0 2 0" Click="ButtonAdminMainView_Click"/>
+                <Button x:Name="ButtonAdminAddNoticeView" Content="Teadete lisamine" Background="#d8cbb1" Width="120" Margin="3 0 2 0" Click="ButtonAdminAddNoticeView_Click"/>
+                <Button x:Name="ButtonAdminAddVotingView" Content="Hääletuste lisamine" Background="#d8cbb1" Width="120" Margin="3 0 5 0" Click="ButtonAdminAddVotingView_Click"/>
+                <Button x:Name="ButtonViewAndAddPeople" Content="Elanike nimekiri" Background="#d8cbb1" Width="120" Margin="3 0 5 0" Click="ButtonViewAndAddPeople_Click"/>
+            </StackPanel>
+            <ContentControl x:Name="ContentArea" Grid.Row="1" Content="{Binding}"/>
+        </Grid>
+    </Border>
+</Window>

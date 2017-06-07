@@ -1,0 +1,62 @@
+﻿<UserControl x:Class="ClientApp.Views.AdminMain"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ClientApp.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <Grid>
+        <StackPanel Grid.Row="1">
+            <TextBlock Text="Tere tulemast, (bind FirstAndLastName)!"/>
+            <TextBlock Text="KÜ (bind tänav + maja nr)" HorizontalAlignment="Center" FontSize="18"/>
+            <Button HorizontalAlignment="Right" Padding="1" Content="Majaelanike andmed"></Button>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <StackPanel Grid.Column="0">
+                    <TextBlock Text="Teated:"/>
+                    <ListBox x:Name="NoticesListBox" ItemsSource="{Binding ListOfNotices}">
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding NoticeText}"></TextBlock>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+                    <Button x:Name="ButtonAddNotice" Content="Lisa uus teade" Width="100" HorizontalAlignment="Left" Visibility="Hidden"/>
+                </StackPanel>
+                <StackPanel Grid.Column="1">
+                    <TextBlock Text="Käimasolevad hääletused:"/>
+                    <ListBox x:Name="VotingsListBox" ItemsSource="{Binding ListOfVotings}" SelectionChanged="VotingsListBox_SelectionChanged">
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Suggestion}"></TextBlock>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+                    <TextBlock Text="Hääletuse tulemused:"></TextBlock>
+                    <ListBox ItemsSource="{Binding VotingResults}">
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <TextBlock>
+                                    <TextBlock.Text>
+                                        <MultiBinding StringFormat="{}{0}: {1}">
+                                            <Binding Path="VoteChoice"/>
+                                            <Binding Path="VoteCount"/>
+                                        </MultiBinding>
+                                    </TextBlock.Text>
+                                </TextBlock>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+
+                    </ListBox>
+                    <Button x:Name="ButtonAddVoting" Content="Lisa uus hääletus" Width="100" HorizontalAlignment="Left" Visibility="Hidden"/>
+                </StackPanel>
+            </Grid>
+            <TextBlock Padding="5" Text="Hääletuse tulemused: (kui VotingsListBox'ist on midagi valitud)"/>
+            <TextBlock Text="(Siia peaks tulema tabel teadmata ridade või veergude arvuga.)"/>
+        </StackPanel>
+    </Grid>
+</UserControl>

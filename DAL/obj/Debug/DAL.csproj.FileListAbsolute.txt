@@ -1,0 +1,28 @@
+C:\Users\Ott\Desktop\CooperationSolution\DAL\bin\Debug\DAL.dll.config
+C:\Users\Ott\Desktop\CooperationSolution\DAL\bin\Debug\DAL.dll
+C:\Users\Ott\Desktop\CooperationSolution\DAL\bin\Debug\DAL.pdb
+C:\Users\Ott\Desktop\CooperationSolution\DAL\bin\Debug\Domain.dll
+C:\Users\Ott\Desktop\CooperationSolution\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Ott\Desktop\CooperationSolution\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ott\Desktop\CooperationSolution\DAL\bin\Debug\Interfaces.dll
+C:\Users\Ott\Desktop\CooperationSolution\DAL\bin\Debug\Domain.pdb
+C:\Users\Ott\Desktop\CooperationSolution\DAL\bin\Debug\Interfaces.pdb
+C:\Users\Ott\Desktop\CooperationSolution\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Ott\Desktop\CooperationSolution\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ott\Desktop\CooperationSolution\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Ott\Desktop\CooperationSolution\DAL\obj\Debug\DAL.dll
+C:\Users\Ott\Desktop\CooperationSolution\DAL\obj\Debug\DAL.pdb
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\DAL\bin\Debug\DAL.dll.config
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\DAL\bin\Debug\DAL.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\DAL\bin\Debug\DAL.pdb
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\DAL\bin\Debug\Domain.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\DAL\bin\Debug\Interfaces.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\DAL\bin\Debug\Domain.pdb
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\DAL\bin\Debug\Interfaces.pdb
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\DAL\obj\Debug\DAL.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\DAL\obj\Debug\DAL.pdb

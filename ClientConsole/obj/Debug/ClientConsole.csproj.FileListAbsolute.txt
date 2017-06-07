@@ -1,0 +1,10 @@
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\ClientConsole\bin\Debug\ClientConsole.exe.config
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\ClientConsole\bin\Debug\ClientConsole.exe
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\ClientConsole\bin\Debug\ClientConsole.pdb
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\ClientConsole\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\ClientConsole\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\ClientConsole\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\ClientConsole\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\ClientConsole\obj\Debug\ClientConsole.exe
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\ClientConsole\obj\Debug\ClientConsole.pdb
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\ClientConsole\obj\Debug\ClientConsole.csprojResolveAssemblyReference.cache

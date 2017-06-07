@@ -1,0 +1,9 @@
+C:\Users\Ott\Desktop\CooperationSolution\Domain\bin\Debug\Domain.dll
+C:\Users\Ott\Desktop\CooperationSolution\Domain\bin\Debug\Domain.pdb
+C:\Users\Ott\Desktop\CooperationSolution\Domain\obj\Debug\Domain.dll
+C:\Users\Ott\Desktop\CooperationSolution\Domain\obj\Debug\Domain.pdb
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\Domain\bin\Debug\Domain.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\Domain\bin\Debug\Domain.pdb
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\Domain\obj\Debug\Domain.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\Domain\obj\Debug\Domain.pdb
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0EA4D3CC-8696-480F-ABB5-3C5822CDDC57}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BL</RootNamespace>
+    <AssemblyName>BL</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="DTOs\ApartmentDTOs\ApartmentDTO.cs" />
+    <Compile Include="DTOs\ApartmentDTOs\ApartmentWithOwnerDTO.cs" />
+    <Compile Include="DTOs\HouseDTOs\HouseDTO.cs" />
+    <Compile Include="DTOs\NoticeDTOs\NoticeDTO.cs" />
+    <Compile Include="DTOs\PersonDTOs\PersonDTO.cs" />
+    <Compile Include="DTOs\VoteDTOs\ApartmentOwnersVoteDTO.cs" />
+    <Compile Include="DTOs\VoteDTOs\PossibleVoteDTO.cs" />
+    <Compile Include="DTOs\VoteDTOs\VoteDTO.cs" />
+    <Compile Include="DTOs\VoteDTOs\VotingResultDTO.cs" />
+    <Compile Include="DTOs\VoteDTOs\VotingDTO.cs" />
+    <Compile Include="DTOs\VoteDTOs\VotingWithPossibleVotesDTO.cs" />
+    <Compile Include="Factories\ApartmentFactory.cs" />
+    <Compile Include="Factories\NoticeFactory.cs" />
+    <Compile Include="Factories\PersonFactory.cs" />
+    <Compile Include="Factories\VotingFactory.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\ApartmentService\ApartmentService.cs" />
+    <Compile Include="Services\ApartmentService\IApartmentService.cs" />
+    <Compile Include="Services\NoticeService\INoticeService.cs" />
+    <Compile Include="Services\NoticeService\NoticeService.cs" />
+    <Compile Include="Services\PersonService\IPersonService.cs" />
+    <Compile Include="Services\PersonService\PersonService.cs" />
+    <Compile Include="Services\VotingService\IVotingService.cs" />
+    <Compile Include="Services\VotingService\VotingService.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Domain\Domain.csproj">
+      <Project>{A5CFCF67-6E3A-4DB9-BF79-367ECA66F42E}</Project>
+      <Name>Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Interfaces\Interfaces.csproj">
+      <Project>{40780F61-5675-4141-80FB-75C36464A166}</Project>
+      <Name>Interfaces</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

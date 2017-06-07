@@ -1,0 +1,14 @@
+C:\Users\Ott\Desktop\CooperationSolution\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\Ott\Desktop\CooperationSolution\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Ott\Desktop\CooperationSolution\Interfaces\bin\Debug\Domain.dll
+C:\Users\Ott\Desktop\CooperationSolution\Interfaces\bin\Debug\Domain.pdb
+C:\Users\Ott\Desktop\CooperationSolution\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Ott\Desktop\CooperationSolution\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\Ott\Desktop\CooperationSolution\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\Interfaces\bin\Debug\Domain.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\Interfaces\bin\Debug\Domain.pdb
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\Kasutaja\Documents\Visual Studio 2017\Projects\CooperationSolution\Interfaces\obj\Debug\Interfaces.pdb
